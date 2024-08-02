@@ -1,4 +1,5 @@
 # Terrafpem-Notes
+[AWS Terraform provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
 ### AWS Terraform provider?
 - Install Terrafrom windows
     - Set the environment variable
@@ -46,4 +47,3 @@ resource "aws_instance" "S1" {
 ```
 - CMD - Terraform plan
 - CMD - Terraform apply
-[AWS Terraform provider](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
